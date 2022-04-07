@@ -36,8 +36,8 @@
               {/* <h1>{name}</h1> */}
               <h1 className="n2">{count}</h1>
            
-               <button id="one" onClick={()=>Handlename(1)}>Increase</button>
-               <button onClick={()=>Handlename(-1)}>Decrease</button>
+               <button id="one" onClick={()=>Handlename(1)}>Increment</button>
+               <button onClick={()=>Handlename(-1)}>Decrement</button>
                <button onClick={()=>Handlename1(2)}>Double</button>
                
           </div>
