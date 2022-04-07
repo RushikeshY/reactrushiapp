@@ -1,0 +1,47 @@
+#one{
+    /* height: 40px;
+    width: 300px; */
+    
+}
+#one{
+  margin-left: 33.6%;
+
+}
+.divinput>button{
+    height: 40px;
+background-color: rgb(80, 80, 255);
+color: white;
+font-weight: bold;
+width: 150px;
+/* margin: 50px; */
+font-size: 20px;
+margin: 10px;
+border-radius: 10px;
+}
+
+.div11{
+    margin: auto;
+    width: 34%;
+}
+.div11>.Left>img{
+    height: 300px;
+    width: 400px;
+    margin: 30px;
+    /* margin-left: 100px; */
+}
+.right{
+    margin-left:120px;
+}
+.n1{
+    text-align: center;
+    color: red;
+    font-size: 50px;
+    margin-left: 50px;
+}
+.n2{
+    text-align: center;
+    color: rgb(27, 18, 18);
+    font-size: 40px;
+    margin-left: 30px;
+  
+}

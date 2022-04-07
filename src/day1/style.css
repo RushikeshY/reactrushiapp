@@ -1,0 +1,40 @@
+/* .div{
+    margin: 50px;
+} */
+.Search>button,.Home>button,.Setting>button,
+.login>button,.joinus>button,.Help>button,.Download>button,.Contactus>button{
+    height: 37px;
+    width:160px;
+    background-color: red;
+    border-radius: 50px;
+    margin: 20px;
+    font-size: 20px;
+    font-weight: bold;
+    color: white;
+    border: none;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+.Search>button{
+    background-color: rgb(4, 119, 75);
+}
+.Home>button{
+    background-color: rgb(139, 24, 111);
+}
+.Setting>button{
+    background-color: rgb(84, 126, 120);
+}
+.login>button{
+    background-color: rgb(226, 174, 4);
+}
+.joinus>button{
+    background-color: rgb(7, 138, 155);
+}
+.Help>button{
+    background-color: rgb(59, 32, 122);
+}
+.Download>button{
+    background-color: rgb(100, 93, 27);
+}
+.Contactus>button{
+    background-color: rgb(121, 5, 5);
+}
