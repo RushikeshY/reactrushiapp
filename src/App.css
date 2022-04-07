@@ -54,3 +54,61 @@
   margin: 90px;
   padding: 50px;
 }
+.div1111{
+ 
+
+  margin: auto;
+  /* margin: 30px; */
+  display: flex;
+
+}
+#btn1,#btn2,#btn3,#btn4,#btn5,#btn6,#btn7,#btn8{
+  height: 37px;
+  width:160px;
+  background-color: red;
+  border-radius: 50px;
+  margin: 20px;
+  font-size: 20px;
+  font-weight: bold;
+  color: white;
+  border: none;
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+}
+
+.div0{
+  box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  margin: 90px;
+  padding: 50px;
+  
+}
+
+#btn1{
+  background-color:  rgb(7, 138, 155);;
+}
+#btn2{
+  background-color: rgb(84, 126, 120);
+}
+#btn3{
+  background-color: rgb(226, 174, 4);
+}
+#btn4{
+  background-color: rgb(121, 5, 5);
+}
+#btn5{
+  background-color: rgb(4, 119, 75);
+}
+#btn6{
+  background-color: rgb(59, 32, 122);
+}
+#btn7{
+  background-color: rgb(139, 24, 111);
+
+}
+#btn8{
+  background-color: rgb(100, 93, 27);
+}
+
+#name11{
+margin-left: 300px;
+margin-top: 30px;
+}
