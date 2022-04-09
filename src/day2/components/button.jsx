@@ -34,7 +34,7 @@
       return(
           <div className="divinput">
               {/* <h1>{name}</h1> */}
-              <h1 className="n2">{count}</h1>
+              <h1  style={{color:count%2===0 ? "green":"red"}} className="n2">{count}</h1>
            
                <button id="one" onClick={()=>Handlename(1)}>Increment</button>
                <button onClick={()=>Handlename(-1)}>Decrement</button>

@@ -1,0 +1,51 @@
+#btndiv{
+    display: flex;
+    height: 30PX;
+    width: 34%;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    padding-bottom: 60px;
+    padding-left: 30px;
+    margin: 10PX;
+    border-radius: 5px;
+}
+
+#btndiv>button{
+    height: 30px;
+    width: 60px;
+    margin-left: 30px;
+    margin-top: 32px;
+    background-color: #9d73ff;
+    border-radius: 20px;
+    border: none;
+    color: white;
+    font-weight: bold;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+
+}
+#h1{
+    color:green;
+    padding-left: 30px;
+}
+#input{
+    height: 30px;
+    width: 300px;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+    border: 1px solid gray;
+    border-top: red;
+    border-radius: 10px;
+    padding-left: 10px;
+    margin-left: 10px;
+}
+#btn{
+    height: 35px;
+    width: 70px;
+    margin-left: 10px;
+    margin-top: 32px;
+    background-color: #0a525f;
+    border-radius: 20px;
+    border: none;
+    color: white;
+    font-weight: bold;
+    box-shadow: rgba(0, 0, 0, 0.35) 0px 5px 15px;
+  
+}

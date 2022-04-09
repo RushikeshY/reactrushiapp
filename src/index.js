@@ -5,7 +5,7 @@ import App from './App';
 import reportWebVitals from './reportWebVitals';
 import {createRoot} from "react-dom/client"
  
-import Button from './day2/components/button';
+// import Button from './day2/components/button';
 const container =document.querySelector("#root");
 const root=createRoot(container);
 

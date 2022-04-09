@@ -26,16 +26,22 @@
 
 //  export default Card;
 
+// export default card
 
-// // import React from 'react'
-
-// // function Card({one,two}) {
-// //   return (
-// //     <div>
-// //         <h1>{one}</h1>
-// //         <h1>{two}</h1>
-// //     </div>
-// //   )
-// // }
-
-// // export default Card;
+ import React from 'react'
+ 
+ const card = (props) => {
+    const {name,age} =props
+   return (
+     <div>
+      
+       <div>
+       <h1 style={{color :"red"}}>{name}</h1>
+       <h1 style={{color :"blue"}}>{age}</h1>
+       </div>
+     </div>
+   )
+ }
+ 
+ export default card
+ 

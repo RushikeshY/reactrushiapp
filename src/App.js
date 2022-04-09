@@ -32,14 +32,14 @@ import JoinUs from './day1/JoinUs';
 import Button from './day2/components/button';
 import Input from './day2/components/input';
 // import Card from './day2/components/card';
-// import EmployeeeDetails from './day2/components/Employe';
-import Data from './day2/components/Employe';
-import {Component} from 'react';
+import EmployeeeDetails from './day2/components/Employe';
+// import Data from './day2/components/Employe';
 
 
 
 
 
+// import Todo from './day2/components/todo';
 import Search from './day1/Search';
 import Setting from './day1/Setting';
 import Contactus from './day1/Contactus';
@@ -49,6 +49,20 @@ import Help from './day1/Help';
 import Home from './day1/Home';
 // import Todo from './day2/components/todo';
 import Btns from './day1/btns';
+
+
+
+
+      // ====================DAY 3 IMPORT PART=======================
+
+
+       import TodoList from './day3/TodoList';
+        import './day3/style.css'
+
+import Index from './Practice';
+
+ 
+ import {Component} from 'react';
 class App extends Component{
 
   render(){
@@ -56,12 +70,42 @@ class App extends Component{
     return (
 
       <div >
-{/*   */}
-{/* <Todo/> */}
-    <h1 className='n1'>Counter</h1>
-      {/* <Data/> */}
-      <Button/>
-      {/* <Input/> */}
+      <div>
+      <Index/>
+              <Input/>
+              <EmployeeeDetails/>
+      </div>
+
+
+ {/* ===========================DAY 3 LIVE CLSS ====================================== */}
+
+<div className='div0'>
+<TodoList/>
+{/* < Todo/> */}
+</div>
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+   {/* ================================ DAY 2 ASSIGNMENT===================== */}
+
+       
+          <h1 className='n1'>Counter</h1>
+        
+            <Button/>
+
+ {/* ============ DAY ONE  ASSIGNMENT ======================================*/}
+
      <div className='div0'>
             <Sample/>
             </div >
@@ -119,9 +163,14 @@ class App extends Component{
 
               </div>
         
-     </div>
+      </div>
 
-        
+
+      
+
+       
+
+
 
 
       </div> 

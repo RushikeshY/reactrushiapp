@@ -1,11 +1,11 @@
 
-//   function Input(){
-//     return(
-//         <div className="divinput">  
-//              <input type="text"  id="one" />
-//         </div>
+  function Input(){
+    return(
+        <div className="divinput">  
+             <input type="text"  id="one" />
+        </div>
         
-//     )
-// }
+    )
+}
 
-// export default Input;
+export default Input;
