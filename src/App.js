@@ -56,10 +56,10 @@ import Btns from './day1/btns';
       // ====================DAY 3 IMPORT PART=======================
 
 
-       import TodoList from './day3/TodoList';
-        import './day3/style.css'
+//        import TodoList from './day3/TodoList';
+        // import './day3/style.css'
 
-import Index from './Practice';
+// import Index from './Practice';
 
  
  import {Component} from 'react';
@@ -71,16 +71,16 @@ class App extends Component{
 
       <div >
       <div>
-      <Index/>
-              <Input/>
-              <EmployeeeDetails/>
+      {/* <Index/> */}
+              {/* <Input/>
+              <EmployeeeDetails/> */}
       </div>
 
 
  {/* ===========================DAY 3 LIVE CLSS ====================================== */}
 
 <div className='div0'>
-<TodoList/>
+{/* <TodoList/> */}
 {/* < Todo/> */}
 </div>
 
