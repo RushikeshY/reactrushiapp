@@ -1,0 +1,21 @@
+  
+  
+     1.   if(showCounter is true "hide" else "show") 
+     2.   When Click on Show button Component Mounted On DOM  
+     3.   Show : {Mounting} :: Added   hide: {Unmounting} :: Remove From Screen
+     4.  Render{Rendering} IS a Function Which is responSible for Showing Something On DOM 
+
+   
+  ###  REACT HOOK LIFE CYCLE  ###
+
+  1.  Adding : Mounting ; 
+
+  2.  Render
+
+  3.  Added  : Mounted ;
+
+  4.  Updating : Mount And Render The Same components Like (Increment Or decrement)  
+
+  5.  Removing : unMounting ;
+
+  6 . Removed  : Unmounted

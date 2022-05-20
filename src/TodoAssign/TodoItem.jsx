@@ -20,5 +20,3 @@ const {title ,id,handleRemove,color} = props;
 export default Todoitem;
 //   
 //
-
-// box => 5 box delete title 
