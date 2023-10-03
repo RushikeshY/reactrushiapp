@@ -1,0 +1,15 @@
+{
+  "name": "automation-scripts",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "fast-csv": "^4.3.6",
+    "mongoose": "^6.9.1"
+  }
+}

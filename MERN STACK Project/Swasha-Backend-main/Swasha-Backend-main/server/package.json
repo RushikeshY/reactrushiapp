@@ -1,0 +1,49 @@
+{
+  "name": "swasha-backend",
+  "version": "1.0.0",
+  "description": "swasha ecommerce project - backend, using express.js, node.js and for database using MongoDB",
+  "main": "index.js",
+  "scripts": {
+    "test": "mocha tests/*.js --exit",
+    "start": "node src/server",
+    "search-sync": "node searchSync.js",
+    "db-ping": "node dbPing.js",
+    "dev": "nodemon src/server",
+    "lint": "eslint ./*.js",
+    "lint:fix": "eslint --fix ./*.js"
+  },
+  "author": "aakash.kumar@nirmaan.org",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^1.4.0",
+    "bcryptjs": "^2.4.3",
+    "body-parser": "^1.20.1",
+    "colors": "^1.4.0",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "crypto-js": "^4.1.1",
+    "dotenv": "^16.0.3",
+    "express": "^4.18.2",
+    "jsonwebtoken": "^9.0.0",
+    "meilisearch": "^0.32.3",
+    "moment": "^2.29.4",
+    "moment-timezone": "^0.5.43",
+    "mongoose": "^6.8.1",
+    "multer": "^1.4.5-lts.1",
+    "nodemailer": "^6.8.0",
+    "razorpay": "^2.8.6",
+    "validator": "^13.7.0"
+  },
+  "devDependencies": {
+    "chai": "^4.3.7",
+    "chai-http": "^4.3.0",
+    "eslint": "^8.30.0",
+    "eslint-config-standard": "^17.0.0",
+    "eslint-plugin-import": "^2.26.0",
+    "eslint-plugin-n": "^15.6.0",
+    "eslint-plugin-promise": "^6.1.1",
+    "eslint-plugin-react": "^7.31.11",
+    "mocha": "^10.2.0",
+    "nodemon": "^2.0.20"
+  }
+}

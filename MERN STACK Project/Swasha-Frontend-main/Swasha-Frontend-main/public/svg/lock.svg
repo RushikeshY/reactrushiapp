@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="448" height="512" aria-hidden="true" className="w-4 h-4 pr-4" data-icon="fa-user-alt" data-prefix="far" focusable="false" role="img" version="1.1" viewBox="0 0 448 512" xmlns="http://www.w3.org/2000/svg">
+ <path d="m150.87 153.62v43.875h146.25v-43.875c0-40.402-32.724-73.126-73.126-73.126s-73.126 32.724-73.126 73.126zm-58.5 43.875v-43.875c0-72.669 58.957-131.63 131.63-131.63s131.63 58.957 131.63 131.63v43.875h14.625c32.267 0 58.5 26.234 58.5 58.5v175.5c0 32.267-26.234 58.5-58.5 58.5h-292.5c-32.267 0-58.5-26.234-58.5-58.5v-175.5c0-32.267 26.234-58.5 58.5-58.5z" fill="currentColor" stroke-width=".91407"/>
+</svg>

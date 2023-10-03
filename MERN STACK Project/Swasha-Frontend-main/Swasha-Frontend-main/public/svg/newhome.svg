@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="32" height="40.41" viewBox="0 0 32 40.41">
+  <g id="Icon_material-home" data-name="Icon material-home" transform="translate(0 1.076)">
+    <path id="Icon_material-home-2" data-name="Icon material-home" d="M12.232,24.117V17.193h4.616v6.924h5.77V14.886h3.462L14.54,4.5,3,14.886H6.462v9.232Z" transform="translate(0.461 -4.5)" fill="none" stroke="#a5acb7" stroke-width="1.6"/>
+    <text id="Home" transform="translate(0 36.333)" fill="#707070" font-size="11" font-family="OpenSans, Open Sans"><tspan x="0" y="0">Home</tspan></text>
+  </g>
+</svg>

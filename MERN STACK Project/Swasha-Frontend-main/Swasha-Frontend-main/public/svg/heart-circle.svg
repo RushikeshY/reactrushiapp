@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="63" height="63" version="1.1" viewBox="0 0 63 63" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <filter id="Path_71" x="0" y="0" width="63" height="63" filterUnits="userSpaceOnUse">
+   <feOffset dy="1" input="SourceAlpha"/>
+   <feGaussianBlur result="blur" stdDeviation="3"/>
+   <feFlood flood-opacity=".161"/>
+   <feComposite in2="blur" operator="in" result="result1"/>
+   <feComposite in="SourceGraphic" in2="result1"/>
+  </filter>
+ </defs>
+ <g transform="translate(9,8)" data-name="Component 13 – 28">
+  <g transform="translate(-9,-8)" filter="url(#Path_71)">
+   <path transform="translate(9,8)" d="M 22.5,0 A 22.5,22.5 0 1 1 0,22.5 22.5,22.5 0 0 1 22.5,0 Z" fill="#fff" data-name="Path 71"/>
+  </g>
+  <g transform="translate(-745,-311)" data-name="Group 199">
+   <g id="Icon_awesome-heart" transform="translate(755.5,323)" data-name="Icon awesome-heart">
+    <path transform="translate(.001 -2.248)" d="m21.67 3.684a6.41 6.41 0 0 0-8.747 0.637l-0.923 0.952-0.923-0.952a6.41 6.41 0 0 0-8.747-0.637 6.731 6.731 0 0 0-0.464 9.745l9.07 9.365a1.47 1.47 0 0 0 2.123 0l9.07-9.365a6.727 6.727 0 0 0-0.459-9.745z" fill="#b7b7b7" data-name="Icon awesome-heart"/>
+   </g>
+  </g>
+ </g>
+</svg>

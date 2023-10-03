@@ -1,0 +1,6 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="40" height="37.971" viewBox="0 0 40 37.971">
+  <g id="Component_99_32" data-name="Component 99 – 32" transform="translate(0 1.002)">
+    <path id="Icon_awesome-heart" data-name="Icon awesome-heart" d="M19.174,3.513a5.69,5.69,0,0,0-7.74.562l-.817.838L9.8,4.074a5.69,5.69,0,0,0-7.74-.562A5.911,5.911,0,0,0,1.65,12.1l8.026,8.25a1.3,1.3,0,0,0,1.879,0l8.026-8.25a5.908,5.908,0,0,0-.406-8.585Z" transform="translate(9.104 -2.248)" fill="none" stroke="#a5adb7" stroke-width="2"/>
+    <text id="Wishlist" transform="translate(0 33.968)" fill="#a5adb7" font-size="11" font-family="OpenSans, Open Sans"><tspan x="0" y="0">Wishlist</tspan></text>
+  </g>
+</svg>

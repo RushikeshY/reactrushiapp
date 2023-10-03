@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<svg width="154" height="45" data-name="Component 26 – 1" version="1.1" viewBox="0 0 154 45" xmlns="http://www.w3.org/2000/svg">
+ <defs>
+  <clipPath id="clip-path">
+   <rect width="30.505" height="40.603" fill="#fff" data-name="Rectangle 98"/>
+  </clipPath>
+ </defs>
+ <path d="m40.508 9h98.487a15 15 0 0 1 15 15v13c-113.03 0-114.16 0.011-114.34 0a22 22 0 0 0 5.273-13.979 23.139 23.139 0 0 0-4.42-14.021z" fill="#cc0c39" opacity=".8" data-name="Path 202"/>
+ <path d="M 22.5,0 A 22.5,22.5 0 1 1 0,22.5 22.5,22.5 0 0 1 22.5,0 Z" fill="#cc0c39" opacity=".8" data-name="Path 174"/>
+ <g transform="translate(7.656,2.607)" data-name="Group 175">
+  <g transform="matrix(.82147 0 0 .82147 2.723 3.624)" clip-path="url(#clip-path)" fill="#fff" fill-rule="evenodd" data-name="Group 114">
+   <path d="m30.505 20.054-5.084 3.222-15.253-8.6 4.656-3.176 10.6 6.118v-6.37l-10.171-5.871-10.169 5.871v6.365l14.824 8.558-5.084 2.937-14.824-8.558v-12.239l15.253-8.311 15.252 8.805z" data-name="Path 39"/>
+   <path transform="translate(0,-82.702)" d="m30.505 109.12v5.38l-15.252 8.8-5.084-2.937-10.169-5.372v-5.871l15.253 8.805 15.253-8.805" data-name="Path 40"/>
+  </g>
+ </g>
+ <text id="Out_Of_Stock" x="49.768429" y="14.148851" fill="#ffffff" font-family="OpenSans-Semibold, 'Open Sans'" font-size="12.884px" font-weight="600" stroke-width=".80527" data-name="Out Of Stock"><tspan x="49.768429" y="27.83848" stroke-width=".80527">Out Of Stock</tspan></text>
+</svg>

@@ -1,0 +1,98 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="146"
+   height="106"
+   viewBox="0 0 146 106"
+   version="1.1"
+   id="svg19"
+   sodipodi:docname="payment.svg"
+   inkscape:version="1.1.2 (0a00cf5339, 2022-02-04)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs23" />
+  <sodipodi:namedview
+     id="namedview21"
+     pagecolor="#ffffff"
+     bordercolor="#666666"
+     borderopacity="1.0"
+     inkscape:pageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     showgrid="false"
+     inkscape:zoom="3.2956298"
+     inkscape:cx="35.50156"
+     inkscape:cy="72.368565"
+     inkscape:window-width="1920"
+     inkscape:window-height="1080"
+     inkscape:window-x="0"
+     inkscape:window-y="0"
+     inkscape:window-maximized="1"
+     inkscape:current-layer="Group_18" />
+  <g
+     id="Group_19"
+     data-name="Group 19"
+     transform="translate(-1353.5,-978.5)">
+    <g
+       id="Group_18"
+       data-name="Group 18">
+      <g
+         id="Rectangle_9"
+         data-name="Rectangle 9"
+         transform="translate(1354,979)"
+         fill="#c5c5c5"
+         stroke="#fcba08"
+         stroke-width="1"
+         opacity="0.15"
+         style="stroke:#707070;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1">
+        <rect
+           width="145"
+           height="105"
+           rx="15"
+           stroke="none"
+           id="rect8"
+           x="0"
+           y="0"
+           style="stroke:#707070;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+        <rect
+           x="0.5"
+           y="0.5"
+           width="144"
+           height="104"
+           rx="14.5"
+           fill="none"
+           id="rect10"
+           style="stroke:#707070;stroke-width:1;stroke-miterlimit:4;stroke-dasharray:none;stroke-opacity:1" />
+      </g>
+      <g
+         id="Group_14"
+         data-name="Group 14"
+         transform="translate(955.175,-232.56)">
+        <path
+           id="Path_2"
+           data-name="Path 2"
+           d="m 1219.161,1216.378 c 0,0 2.944,17.515 -4.86,32.836 -7.804,15.321 -26.358,28.445 -26.358,28.445 0,0 -17.813,-13.125 -25.43,-28.445 -7.617,-15.32 -5.036,-32.836 -5.036,-32.836 l 30.466,-15.6 z"
+           transform="translate(-717.056,25.341)"
+           fill="none"
+           stroke="#fcba08"
+           stroke-width="1" />
+        <path
+           id="Icon_ionic-ios-checkmark-circle"
+           data-name="Icon ionic-ios-checkmark-circle"
+           d="M 19.2,3.375 A 15.823,15.823 0 1 0 35.021,19.2 15.821,15.821 0 0 0 19.2,3.375 Z M 27.3,14.824 17.129,25.04 h -0.008 a 1.374,1.374 0 0 1 -0.882,0.418 1.332,1.332 0 0 1 -0.89,-0.434 l -4.26,-4.26 a 0.3,0.3 0 0 1 0,-0.434 l 1.354,-1.354 a 0.294,0.294 0 0 1 0.426,0 l 3.378,3.378 9.281,-9.349 a 0.3,0.3 0 0 1 0.213,-0.091 v 0 a 0.276,0.276 0 0 1 0.213,0.091 l 1.331,1.377 a 0.3,0.3 0 0 1 0.015,0.442 z"
+           transform="translate(452.127,1240.954)"
+           fill="none"
+           stroke="#fcba08"
+           stroke-width="1" />
+        <path
+           id="Icon_awesome-star"
+           data-name="Icon awesome-star"
+           d="m 5.116,0.273 -1,2.037 -2.248,0.328 A 0.493,0.493 0 0 0 1.596,3.478 L 3.217,5.063 2.832,7.3 A 0.492,0.492 0 0 0 3.546,7.819 L 5.558,6.764 7.569,7.821 A 0.492,0.492 0 0 0 8.283,7.3 L 7.9,5.063 9.525,3.478 A 0.493,0.493 0 0 0 9.253,2.638 L 7,2.311 6,0.273 a 0.493,0.493 0 0 0 -0.884,0 z"
+           transform="translate(465.767,1281.999)"
+           fill="#fcba08" />
+      </g>
+    </g>
+  </g>
+</svg>
