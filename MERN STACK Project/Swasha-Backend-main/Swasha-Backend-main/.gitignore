@@ -1,8 +1,0 @@
-**/exec
-**/node_modules
-**/.sesh.vim
-**/static
-product_images
-db_backups
-dumps/
-data.ms/
